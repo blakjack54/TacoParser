@@ -1,5 +1,4 @@
-﻿using System;
-namespace LoggingKata
+﻿namespace LoggingKata
 {
     public interface ILog
     {
